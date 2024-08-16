@@ -1,0 +1,3 @@
+  const prompt = `${type} this ${platform} profile especially in the job experience section in ${lang} with this data: ${JSON.stringify(
+            profileInfo
+        )}, use ${languageStyle} according to language, talk about the company, job, and experience and maximal 100 words.`;
